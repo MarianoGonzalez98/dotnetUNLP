@@ -6,6 +6,12 @@ object o2 = o1;
 o2 = "Z";
 Console.WriteLine(o1 + " " + o2);
 /*
+
+El tipo string es inmutable, por lo cual cuando se quiere modificar su valor, se necesita crear una nueva referencia.
+
+
+
+
 El tipo object es un tipo referencia, por lo tanto luego de la sentencia o2 = o1 ambas
 variables están apuntando a la misma dirección. ¿Cómo explica entonces que el resultado en la consola no sea “Z Z”?
 
