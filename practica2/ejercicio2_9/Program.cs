@@ -13,6 +13,8 @@ StringBuilder en lugar de string y otro en el que no.
 
 */
 
+//buscar datetime difference
+
 //StringBuilder stb = new StringBuilder("Holaa");
 //stb[0]='h';
 //Console.WriteLine(stb); 
