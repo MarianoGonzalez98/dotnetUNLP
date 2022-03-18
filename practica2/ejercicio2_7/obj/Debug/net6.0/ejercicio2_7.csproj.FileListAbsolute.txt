@@ -1,0 +1,15 @@
+D:\Mariano\Unlp informatica\Cursada 2022\Net\2022\Practicas\practica2\ejercicio2_7\obj\Debug\net6.0\ejercicio2_7.csproj.AssemblyReference.cache
+D:\Mariano\Unlp informatica\Cursada 2022\Net\2022\Practicas\practica2\ejercicio2_7\obj\Debug\net6.0\ejercicio2_7.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mariano\Unlp informatica\Cursada 2022\Net\2022\Practicas\practica2\ejercicio2_7\obj\Debug\net6.0\ejercicio2_7.AssemblyInfoInputs.cache
+D:\Mariano\Unlp informatica\Cursada 2022\Net\2022\Practicas\practica2\ejercicio2_7\obj\Debug\net6.0\ejercicio2_7.AssemblyInfo.cs
+D:\Mariano\Unlp informatica\Cursada 2022\Net\2022\Practicas\practica2\ejercicio2_7\obj\Debug\net6.0\ejercicio2_7.csproj.CoreCompileInputs.cache
+D:\Mariano\Unlp informatica\Cursada 2022\Net\2022\Practicas\practica2\ejercicio2_7\bin\Debug\net6.0\ejercicio2_7.exe
+D:\Mariano\Unlp informatica\Cursada 2022\Net\2022\Practicas\practica2\ejercicio2_7\bin\Debug\net6.0\ejercicio2_7.deps.json
+D:\Mariano\Unlp informatica\Cursada 2022\Net\2022\Practicas\practica2\ejercicio2_7\bin\Debug\net6.0\ejercicio2_7.runtimeconfig.json
+D:\Mariano\Unlp informatica\Cursada 2022\Net\2022\Practicas\practica2\ejercicio2_7\bin\Debug\net6.0\ejercicio2_7.dll
+D:\Mariano\Unlp informatica\Cursada 2022\Net\2022\Practicas\practica2\ejercicio2_7\bin\Debug\net6.0\ejercicio2_7.pdb
+D:\Mariano\Unlp informatica\Cursada 2022\Net\2022\Practicas\practica2\ejercicio2_7\obj\Debug\net6.0\ejercicio2_7.dll
+D:\Mariano\Unlp informatica\Cursada 2022\Net\2022\Practicas\practica2\ejercicio2_7\obj\Debug\net6.0\refint\ejercicio2_7.dll
+D:\Mariano\Unlp informatica\Cursada 2022\Net\2022\Practicas\practica2\ejercicio2_7\obj\Debug\net6.0\ejercicio2_7.pdb
+D:\Mariano\Unlp informatica\Cursada 2022\Net\2022\Practicas\practica2\ejercicio2_7\obj\Debug\net6.0\ejercicio2_7.genruntimeconfig.cache
+D:\Mariano\Unlp informatica\Cursada 2022\Net\2022\Practicas\practica2\ejercicio2_7\obj\Debug\net6.0\ref\ejercicio2_7.dll
