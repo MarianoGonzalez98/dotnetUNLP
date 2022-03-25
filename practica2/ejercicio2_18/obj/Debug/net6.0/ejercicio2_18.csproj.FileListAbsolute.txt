@@ -1,0 +1,15 @@
+D:\Mariano\Unlp informatica\Cursada 2022\Net\2022\Practicas\practica2\ejercicio2_18\bin\Debug\net6.0\ejercicio2_18.exe
+D:\Mariano\Unlp informatica\Cursada 2022\Net\2022\Practicas\practica2\ejercicio2_18\bin\Debug\net6.0\ejercicio2_18.deps.json
+D:\Mariano\Unlp informatica\Cursada 2022\Net\2022\Practicas\practica2\ejercicio2_18\bin\Debug\net6.0\ejercicio2_18.runtimeconfig.json
+D:\Mariano\Unlp informatica\Cursada 2022\Net\2022\Practicas\practica2\ejercicio2_18\bin\Debug\net6.0\ejercicio2_18.dll
+D:\Mariano\Unlp informatica\Cursada 2022\Net\2022\Practicas\practica2\ejercicio2_18\bin\Debug\net6.0\ejercicio2_18.pdb
+D:\Mariano\Unlp informatica\Cursada 2022\Net\2022\Practicas\practica2\ejercicio2_18\obj\Debug\net6.0\ejercicio2_18.csproj.AssemblyReference.cache
+D:\Mariano\Unlp informatica\Cursada 2022\Net\2022\Practicas\practica2\ejercicio2_18\obj\Debug\net6.0\ejercicio2_18.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mariano\Unlp informatica\Cursada 2022\Net\2022\Practicas\practica2\ejercicio2_18\obj\Debug\net6.0\ejercicio2_18.AssemblyInfoInputs.cache
+D:\Mariano\Unlp informatica\Cursada 2022\Net\2022\Practicas\practica2\ejercicio2_18\obj\Debug\net6.0\ejercicio2_18.AssemblyInfo.cs
+D:\Mariano\Unlp informatica\Cursada 2022\Net\2022\Practicas\practica2\ejercicio2_18\obj\Debug\net6.0\ejercicio2_18.csproj.CoreCompileInputs.cache
+D:\Mariano\Unlp informatica\Cursada 2022\Net\2022\Practicas\practica2\ejercicio2_18\obj\Debug\net6.0\ejercicio2_18.dll
+D:\Mariano\Unlp informatica\Cursada 2022\Net\2022\Practicas\practica2\ejercicio2_18\obj\Debug\net6.0\refint\ejercicio2_18.dll
+D:\Mariano\Unlp informatica\Cursada 2022\Net\2022\Practicas\practica2\ejercicio2_18\obj\Debug\net6.0\ejercicio2_18.pdb
+D:\Mariano\Unlp informatica\Cursada 2022\Net\2022\Practicas\practica2\ejercicio2_18\obj\Debug\net6.0\ejercicio2_18.genruntimeconfig.cache
+D:\Mariano\Unlp informatica\Cursada 2022\Net\2022\Practicas\practica2\ejercicio2_18\obj\Debug\net6.0\ref\ejercicio2_18.dll
