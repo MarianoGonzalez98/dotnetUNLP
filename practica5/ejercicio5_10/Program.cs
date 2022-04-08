@@ -20,9 +20,9 @@ class A
     public static int A2; //campo estatico
     static int A3 => 3; //propiedad estatica de solo lectura ??
     private int A4() => 4; //metodo de instancia
-    public int A5 { get => 5; }
-    int A6 { set => c = value; }
-    public int A7 { get; set; }
-    public int A8 { get; } = 8;
-    public int this[int i] => i;
+    public int A5 { get => 5; } //propiedad de solo lectura
+    int A6 { set => c = value; } //propiedad de solo escritura?
+    public int A7 { get; set; } //propiedad
+    public int A8 { get; } = 8; //propiedad de solo lectura e inicializacion
+    public int this[int i] => i; // indizador
 }
